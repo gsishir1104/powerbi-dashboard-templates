@@ -1,0 +1,6 @@
+EmployeeID,Name,Department,Gender,Salary,JoiningDate,Status
+1,John,IT,Male,60000,2024-01-10,Active
+2,Sara,HR,Female,55000,2023-05-20,Active
+3,David,Finance,Male,65000,2022-08-15,Resigned
+4,Anita,Sales,Female,50000,2025-02-01,Active
+5,Ravi,IT,Male,70000,2021-11-12,Active
